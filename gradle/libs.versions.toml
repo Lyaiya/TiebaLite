@@ -94,7 +94,7 @@ sketch-extensions-compose = { group = "io.github.panpf.sketch3", name = "sketch-
 sketch-gif = { group = "io.github.panpf.sketch3", name = "sketch-gif", version.ref = "sketch" }
 sketch-okhttp = { group = "io.github.panpf.sketch3", name = "sketch-okhttp", version.ref = "sketch" }
 
-zoomimage-compose-sketch = { group = "io.github.panpf.zoomimage", name = "zoomimage-compose-sketch", version = "1.0.1" }
+zoomimage-compose-sketch = { group = "io.github.panpf.zoomimage", name = "zoomimage-compose-sketch", version = "1.0.2" }
 
 compose-animation = { group = "androidx.compose.animation", name = "compose-animation" }
 animation-graphics = { group = "androidx.compose.animation", name = "animation-graphics" }
