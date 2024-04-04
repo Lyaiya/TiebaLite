@@ -56,7 +56,7 @@ androidx-test-espresso-core = { group = "androidx.test.espresso", name = "espres
 
 wire-runtime = { group = "com.squareup.wire", name = "wire-runtime", version.ref = "wire" }
 
-swiftzer-semver = { group = "net.swiftzer.semver", name = "semver", version = "1.3.0" }
+swiftzer-semver = { group = "net.swiftzer.semver", name = "semver", version = "2.0.0" }
 
 godaddy-color-picker = { group = "com.godaddy.android.colorpicker", name = "compose-color-picker", version = "0.7.0" }
 
