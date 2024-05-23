@@ -23,7 +23,7 @@ glide = "4.16.0"
 retrofit = "2.9.0"
 
 [plugins]
-dependency-analysis = { id = "com.autonomousapps.dependency-analysis", version = "1.29.0" }
+dependency-analysis = { id = "com.autonomousapps.dependency-analysis", version = "1.32.0" }
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
