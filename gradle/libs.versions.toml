@@ -159,7 +159,7 @@ matisse = { group = "com.github.lwj1994", name = "Matisse", version = "0.5.3-202
 xxpermissions = { group = "com.github.getActivity", name = "XXPermissions", version = "18.62" }
 immersionbar = { group = "com.geyifeng.immersionbar", name = "immersionbar", version.ref = "immersionbar" }
 immersionbar-ktx = { group = "com.geyifeng.immersionbar", name = "immersionbar-ktx", version.ref = "immersionbar" }
-ucrop = { group = "com.github.yalantis", name = "ucrop", version = "2.2.8" }
+ucrop = { group = "com.github.yalantis", name = "ucrop", version = "2.2.9" }
 
 butterknife = { group = "com.jakewharton", name = "butterknife", version = "10.2.3" }
 butterknife-compiler = { group = "com.jakewharton", name = "butterknife-compiler", version = "10.2.3" }
