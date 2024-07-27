@@ -117,7 +117,7 @@ androidx-constraintlayout = { group = "androidx.constraintlayout", name = "const
 androidx-activity = { group = "androidx.activity", name = "activity-ktx", version.ref = "androidx-activity" }
 androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "androidx-activity" }
 
-github-oaid = { group = "com.github.gzu-liyujiang", name = "Android_CN_OAID", version = "4.2.5.1" }
+github-oaid = { group = "com.github.gzu-liyujiang", name = "Android_CN_OAID", version = "4.2.9" }
 
 jetbrains-annotations = { group = "org.jetbrains", name = "annotations", version = "24.1.0" }
 
