@@ -151,7 +151,7 @@ okhttp3-core = { group = "com.squareup.okhttp3", name = "okhttp", version = "4.1
 retrofit2-core = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
 retrofit2-converter-wire = { group = "com.squareup.retrofit2", name = "converter-wire", version.ref = "retrofit" }
 
-google-gson = { group = "com.google.code.gson", name = "gson", version = "2.10.1" }
+google-gson = { group = "com.google.code.gson", name = "gson", version = "2.11.0" }
 # Remove
 litepal = { group = "org.litepal.android", name = "kotlin", version = "3.0.0" }
 jaredrummler-colorpicker = { group = "com.jaredrummler", name = "colorpicker", version = "1.1.0" }
